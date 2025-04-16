@@ -1,12 +1,16 @@
-# M-A-Fusion_Acquisition : Étude de cas Porsche et Volkswagen
+# Fusion_Acquisition : Porsche & Volkswagen
 
 ## Description du projet
 
-Ce projet a été réalisé dans le cadre du cours de Fusions et Acquisitions (M&A). Il s'agit d'une étude approfondie de la fusion entre Porsche et Volkswagen, deux entreprises sœurs du secteur automobile. L’objectif de cette analyse est de comprendre les enjeux stratégiques, financiers et organisationnels associés à une fusion de grande ampleur dans l'industrie automobile, ainsi que les mécanismes qui ont permis de structurer cette transaction complexe.
+Ce projet a été réalisé dans le cadre du cours de Fusions et Acquisitions (M&A). 
+Il s'agit d'une étude approfondie de la fusion entre Porsche et Volkswagen, deux entreprises sœurs du secteur automobile.
+L’objectif de cette analyse est de comprendre les enjeux stratégiques, financiers et organisationnels associés à une fusion de grande ampleur dans l'industrie automobile, ainsi que les mécanismes qui ont permis de structurer cette transaction complexe.
 
 ## Contexte de l'étude
 
-La fusion entre Volkswagen et Porsche constitue un cas emblématique dans le domaine des fusions-acquisitions. Bien que les deux entreprises soient historiquement liées, l'intégration des deux structures a impliqué des défis financiers, juridiques et managériaux. À travers cette étude de cas, nous avons exploré les différentes étapes qui ont marqué cette opération de rapprochement, ainsi que les motivations sous-jacentes pour chacune des parties.
+La fusion entre Volkswagen et Porsche constitue un cas emblématique dans le domaine des fusions-acquisitions. 
+Bien que les deux entreprises soient historiquement liées, l'intégration des deux structures a impliqué des défis financiers, juridiques et managériaux. 
+À travers cette étude de cas, nous avons exploré les différentes étapes qui ont marqué cette opération de rapprochement, ainsi que les motivations sous-jacentes pour chacune des parties.
 
 ## Objectifs de l'étude
 
@@ -22,5 +26,6 @@ Synergies et intégration : Identification des synergies réalisées et des déf
 
 ## Conclusion
 
-Cette étude de cas nous a permis de comprendre en profondeur les dynamiques complexes d'une opération de fusion-acquisition dans le secteur automobile. Elle met en lumière l'importance d'une préparation rigoureuse et d'une gestion adéquate de l'intégration pour garantir la réussite d'une telle transaction.
+Cette étude de cas nous a permis de comprendre en profondeur les dynamiques complexes d'une opération de fusion-acquisition dans le secteur automobile. 
+Elle met en lumière l'importance d'une préparation rigoureuse et d'une gestion adéquate de l'intégration pour garantir la réussite d'une telle transaction.
 
