@@ -29,3 +29,14 @@ Synergies et intégration : Identification des synergies réalisées et des déf
 Cette étude de cas nous a permis de comprendre en profondeur les dynamiques complexes d'une opération de fusion-acquisition dans le secteur automobile. 
 Elle met en lumière l'importance d'une préparation rigoureuse et d'une gestion adéquate de l'intégration pour garantir la réussite d'une telle transaction.
 
+## 👤 Auteur
+
+Ce projet a été réalisé par :
+
+**khalid OURO-ADOYI**  
+
+Data Analyst & Engineer engineer | Développeur Power BI ,Qlik sense 
+
+📧 Email : khalidouroadoyi@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/khalid-ouro-adoyi/) | [GitHub](https://github.com/LIDONI)
+
