@@ -31,7 +31,7 @@ Elle met en lumière l'importance d'une préparation rigoureuse et d'une gestion
 
 # 👤 Owner
 <h1 align="center">Hi 👋, I'm khalid</h1>
-<h3 align="center">Data analytics engineer || Power BI and Qlik sense developer</h3>
+<h3 align="center">Data analyst & Data engineer || Power BI and Qlik sense developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/lidoni?tab=repositories](https://github.com/lidoni?tab=repositories)
 
