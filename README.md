@@ -40,7 +40,7 @@ Elle met en lumière l'importance d'une préparation rigoureuse et d'une gestion
 - 📫 How to reach me **khalidouroadoyi@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: flex; flex-wrap: wrap; max-width: 500px; gap: 10px;">
+<p> <div align="left" style="display: flex; flex-wrap: wrap; max-width: 500px; gap: 10px;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -61,8 +61,9 @@ Elle met en lumière l'importance d'une préparation rigoureuse et d'une gestion
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  </a> </p>
+  
+  <p> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -79,7 +80,7 @@ Elle met en lumière l'importance d'une préparation rigoureuse et d'une gestion
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  </a> <p/>
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
   </a>
