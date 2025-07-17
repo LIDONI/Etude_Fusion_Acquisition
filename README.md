@@ -40,7 +40,7 @@ Elle met en lumière l'importance d'une préparation rigoureuse et d'une gestion
 - 📫 How to reach me **khalidouroadoyi@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; max-width: 500px; gap: 10px;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -93,8 +93,6 @@ Elle met en lumière l'importance d'une préparation rigoureuse et d'une gestion
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </div>
- </p>
-
 
 Data Analyst & Engineer | Développeur Power BI ,Qlik sense 
 
